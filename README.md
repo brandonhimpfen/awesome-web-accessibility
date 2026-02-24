@@ -43,6 +43,7 @@
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Google's tool for auditing performance and accessibility.
 - [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM.
 - [Pa11y](https://pa11y.org/) - Automated accessibility testing tool.
+- [RatedWithAI](https://ratedwithai.com/) - AI-powered accessibility scanner that checks websites for ADA and WCAG 2.2 compliance with actionable fix recommendations.
 - [Tenon](https://tenon.io/) - An API-based accessibility testing tool.
 
 ## Designing for Accessibility
