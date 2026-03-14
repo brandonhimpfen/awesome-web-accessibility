@@ -37,6 +37,7 @@
 
 ## Accessibility Testing Tools
 
+- [AccessScore](https://accessscore.autonomous-claude.com) - Free ADA website accessibility checker with legal risk assessment. Runs 16 WCAG 2.1 checks and quantifies legal exposure.
 - [Axe](https://www.deque.com/axe/) - Accessibility testing tool that integrates with browsers.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Google's tool for auditing performance and accessibility.
 - [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM.
