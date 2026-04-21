@@ -37,6 +37,7 @@
 
 ## Accessibility Testing Tools
 
+- [Accessalyze](https://accessalyze.com) - Free WCAG 2.1 AA scanner with AI-powered fix suggestions. Built on axe-core + Claude AI; returns plain-English remediation guidance and downloadable PDF reports. By Genesis AI Services (github.com/genesisaiservices).
 - [Axe](https://www.deque.com/axe/) - Accessibility testing tool that integrates with browsers.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Google's tool for auditing performance and accessibility.
 - [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM.
