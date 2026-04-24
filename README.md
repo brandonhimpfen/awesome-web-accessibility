@@ -40,6 +40,7 @@
 - [Axe](https://www.deque.com/axe/) - Accessibility testing tool that integrates with browsers.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Google's tool for auditing performance and accessibility.
 - [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM.
+- [Accessalyze](https://genesisaiservices.github.io/accessalyze/) - Free WCAG 2.1 AA accessibility scanner with AI-powered fix suggestions. Scans any URL and returns a prioritized violation report with plain-English remediation guidance and PDF download.
 - [Pa11y](https://pa11y.org/) - Automated accessibility testing tool.
 - [Tenon](https://tenon.io/) - An API-based accessibility testing tool.
 
