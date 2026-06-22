@@ -42,7 +42,7 @@
 - [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM.
 - [Pa11y](https://pa11y.org/) - Automated accessibility testing tool.
 - [Tenon](https://tenon.io/) - An API-based accessibility testing tool.
-- [Holm Digital Accessibility Engine](https://www.npmjs.com/package/@holmdigital/engine) - WCAG testing engine that maps failures to EN 301 549 and national law across 17 jurisdictions, with CI mode, JUnit/PDF reports, and accessibility-statement generation.
+- [Holm Digital Accessibility Engine](https://www.npmjs.com/package/@holmdigital/engine) - WCAG testing engine with compliance mapping for EN 301 549 and national accessibility laws.
 
 ## Designing for Accessibility
 
