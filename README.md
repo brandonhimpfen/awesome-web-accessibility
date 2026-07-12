@@ -41,6 +41,7 @@
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Google's tool for auditing performance and accessibility.
 - [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM.
 - [Pa11y](https://pa11y.org/) - Automated accessibility testing tool.
+- [MotionSpec](https://motionspec.dev/motion-check) - Free static scanner for motion accessibility: checks CSS animation for prefers-reduced-motion support and WCAG 2.2.2 / 2.3.3 issues, with a fix per finding.
 - [Tenon](https://tenon.io/) - An API-based accessibility testing tool.
 - [Holm Digital Accessibility Engine](https://www.npmjs.com/package/@holmdigital/engine) - WCAG testing engine with compliance mapping for EN 301 549 and national accessibility laws.
 
