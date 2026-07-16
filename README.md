@@ -47,6 +47,7 @@
 ## Designing for Accessibility
 
 - [Color Contrast Checker](https://webaim.org/resources/contrastchecker/) - Tool to check text color contrast against WCAG standards.
+- [ColorTools Contrast Checker](https://colorpicker.cx/contrast) - Free WCAG 2.1 and APCA contrast checker with color-blindness simulation and accessible-color suggestions.
 - [Inclusive Design Principles](https://www.inclusivedesigntoolkit.com/) - Practical advice for designing inclusive and accessible user interfaces.
 - [Accessible Forms](https://www.smashingmagazine.com/2017/11/guide-accessible-forms/) - Guide on creating accessible forms.
 
