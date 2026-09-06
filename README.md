@@ -44,6 +44,7 @@
 - [Pa11y](https://pa11y.org/) - Automated accessibility testing tool.
 - [Tenon](https://tenon.io/) - An API-based accessibility testing tool.
 - [Holm Digital Accessibility Engine](https://www.npmjs.com/package/@holmdigital/engine) - WCAG testing engine with compliance mapping for EN 301 549 and national accessibility laws.
+- [A11yMonitor](https://a11ymonitor.vercel.app) - Free online accessibility checker that runs axe-core in a real browser and returns a 0-100 score mapped to WCAG 2.2 criteria.
 
 ## Designing for Accessibility
 
